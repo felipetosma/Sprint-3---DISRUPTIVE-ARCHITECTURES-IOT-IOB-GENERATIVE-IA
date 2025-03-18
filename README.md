@@ -2,7 +2,7 @@
 
 ## 📋 Visão Geral
 
-OdontoFast é um sistema de análise preditiva para problemas bucais que utiliza técnicas de aprendizado de máquina para identificar riscos potenciais de pacientes desenvolverem problemas dentários. A ferramenta foi desenvolvida para auxiliar profissionais da odontologia na prevenção e planejamento de tratamentos personalizados.
+OdontoFast possui um sistema de análise preditiva para problemas bucais que utiliza técnicas de aprendizado de máquina para identificar riscos potenciais de pacientes desenvolverem problemas dentários. A ferramenta foi desenvolvida para auxiliar profissionais da odontologia na prevenção e planejamento de tratamentos personalizados.
 
 ## 📂 Conteúdo do Repositório
 
